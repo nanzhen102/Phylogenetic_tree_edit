@@ -3,7 +3,7 @@
 import pandas as pd
 from re import search
 
-input_partial_fname = '../01_node_label.csv'
+input_partial_fname = '01_node_label.csv'
 input_full_fname = 'full_name_Sep26_2022.csv'
 
 output_fname = input_partial_fname.split(".")[0]  + "_species_matched.csv"
