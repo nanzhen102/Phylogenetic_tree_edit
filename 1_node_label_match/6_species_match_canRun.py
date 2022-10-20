@@ -3,8 +3,8 @@
 import pandas as pd
 from re import search
 
-input_partial_fname = '01_node_label.csv'
-input_full_fname = 'full_name_Sep26_2022.csv'
+input_partial_fname = '/Users/nanzhen/Documents/GitHub/Phylogenetic_tree_edit/01_node_label.csv'
+input_full_fname = '/Users/nanzhen/Documents/GitHub/Phylogenetic_tree_edit/full_name_Oct4_2022.csv'
 
 output_fname = input_partial_fname.split(".")[0]  + "_species_matched.csv"
 
