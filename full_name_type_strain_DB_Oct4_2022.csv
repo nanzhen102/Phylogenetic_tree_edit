@@ -323,7 +323,7 @@
 322,JQBD00000000,Pediococcus damnosus ,1,,
 323,JQBY00000000,Pediococcus ethanolidurans ,1,,
 324,JQBC00000000,Pediococcus inopinatus ,1,,
-325,JQCC00000000,Pediococcus lolii ,1,Keep. But don't have this genome in the updated_type_strain_DB_GH70_Nicolia. This species also not in Michael's database. Should be Pediococcus acidilactici,
+325,JQCC00000000,Pediococcus lolii ,1,Don't Keep. Don't have this genome in the updated_type_strain_DB_GH70_Nicolia. This species also not in Michael's database. Should be Pediococcus acidilactici,
 326,BJWE00000000,Pediococcus parvulus ,1,,
 327,JQBF00000000,Pediococcus pentosaceus ,1,,
 328,JQBX00000000,Pediococcus stilesii ,1,,
